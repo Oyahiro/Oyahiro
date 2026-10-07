@@ -68,8 +68,8 @@ THEMES = {
     ),
     "indigo": dict(
         levels=["#161b22", "#1e1b4b", "#3730a3", "#6366f1", "#a5b4fc"],
-        snake="#818cf8", head="#e0e7ff",
-        ramp=[(1, "#e0e7ff"), (4, "#a5b4fc"), (10, "#818cf8"), (21, "#4f46e5")],
+        snake="#fbbf24", head="#fef3c7",
+        ramp=[(1, "#fde68a"), (4, "#fbbf24"), (10, "#f59e0b"), (21, "#b45309")],
         text="#7d8590", frame_bg="#0d1117", frame_border="#312e81",
     ),
 }
